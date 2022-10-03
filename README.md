@@ -13,7 +13,7 @@ Dogs--
 Breed/Type: German Shepherd, Lab, etc
 
 Cats--
-Breed/Type: Domestic, Main-coon, etc
+Breed/Type: Domestic, Maine-coon, etc
 
 Reptiles--
 Breed/Type: Bearded Dragon, Lepard Gecco, etc
