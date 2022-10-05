@@ -17,3 +17,9 @@ class Patient(): #Owners of the pets. The Pets will inherit their owner
 
     def add_pet(self, pet_id):
         self.pets.append(pet_id)
+    
+    def add_pets(self, pet_id_lst):
+        if isinstance(pet_id_lst, str):
+            self.add_pet(pet_id_lst)
+        for pet_id in pet_id_lst:
+            self.add_pets(pet_id)
