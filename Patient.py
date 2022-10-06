@@ -22,4 +22,4 @@ class Patient(): #Owners of the pets. The Pets will inherit their owner
         if isinstance(pet_id_lst, str):
             self.add_pet(pet_id_lst)
         for pet_id in pet_id_lst:
-            self.add_pets(pet_id)
+            self.add_pet(pet_id)
