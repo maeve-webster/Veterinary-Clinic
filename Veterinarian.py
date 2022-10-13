@@ -1,4 +1,4 @@
-import secrets # Cryptographically more secure random number generator
+import secrets # Cryptographically more secure random number generator because why not
 import string
 import datetime
 from dateutil import parser
